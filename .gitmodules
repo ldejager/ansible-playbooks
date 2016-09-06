@@ -4,3 +4,6 @@
 [submodule "roles/generic"]
 	path = roles/generic
 	url = git@github.com:ldejager/ansible-generic-role
+[submodule "roles/mariadb"]
+	path = roles/mariadb
+	url = git@github.com:ldejager/ansible-mariadb-role
