@@ -5,3 +5,4 @@
   roles:
     - generic
     - docker
+    - mariadb
